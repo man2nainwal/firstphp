@@ -27,6 +27,6 @@ First name: <input type="text" onkeyup="showHint(this.value)">
 </form>
 <p>Suggestions: <span id="txtHint"></span></p>
 
-<h>This is a demo page.</h>
+<p><i>This is a demo page.</i></p>
 </body>
 </html>
