@@ -26,5 +26,7 @@ function showHint(str) {
 First name: <input type="text" onkeyup="showHint(this.value)">
 </form>
 <p>Suggestions: <span id="txtHint"></span></p>
+
+<h>This is a demo page.</h>
 </body>
 </html>
